@@ -1,0 +1,13 @@
+本项目是基于apache tomcat的简单tomcat，具有tomcat的一些核心功能。
+功能如下：
+1. 对静态资源（包括文本、二进制文件等）、jsp、servlet的解析
+2. 并且项目可以进行热部署
+3. 实现客户端跳转（重定向）、服务器跳转（转发）以及带参数转发
+4. 实现session、cookie功能
+5. 对servlet进行生命周期的开发
+6. servlet可以配置初始化参数
+7. 实现servlet自启动功能（load-on-startup）
+8. 实现Filter过滤器的功能
+9. 实现Context的监听器功能
+配置：
+配置方法与apache tomcat配置方法相同，在conf下的server.xml中配置自己的web应用。

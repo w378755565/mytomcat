@@ -1,0 +1,20 @@
+01 17, 2021 14:48:40 下午 cn.myself.catalina.Context deploy
+INFO : Deploying web application directory D:\idea_project\mytomcat\webapps\ROOTDeploying web application directory D:\idea_project\mytomcat\webapps\ROOT01 17, 2021 14:48:40 下午 cn.myself.catalina.Context deploy
+INFO : Deploying of web application directory D:\idea_project\mytomcat\webapps\ROOT has finished in 99 msDeploying of web application directory D:\idea_project\mytomcat\webapps\ROOT has finished in 99 ms01 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : Server version:		My Tomcat/1.0.1Server version:		My Tomcat/1.0.101 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : Server built:		2021-1-12 19:02:23Server built:		2021-1-12 19:02:2301 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : Server number:		1.0.1Server number:		1.0.101 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : OS Name	:		Windows 10OS Name	:		Windows 1001 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : OS version:		10.0OS version:		10.001 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : Architecture:		amd64Architecture:		amd6401 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : Java Home:		D:\myapp\java\jreJava Home:		D:\myapp\java\jre01 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : JVM version:		1.8.0_202-b08JVM version:		1.8.0_202-b0801 17, 2021 14:48:40 下午 cn.myself.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle CorporationJVM Vendor:		Oracle Corporation01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]Initializing ProtocolHandler [http-bio-18080]01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]Initializing ProtocolHandler [http-bio-18081]01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]Initializing ProtocolHandler [http-bio-18082]01 17, 2021 14:48:40 下午 cn.myself.catalina.Service init
+INFO : Initialization processed in 1 msInitialization processed in 1 ms01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]Starting ProtocolHandler [http-bio-18080]01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]Starting ProtocolHandler [http-bio-18081]01 17, 2021 14:48:40 下午 cn.myself.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]Starting ProtocolHandler [http-bio-18082]01 17, 2021 14:48:40 下午 cn.myself.catalina.Server start
+INFO : Server startup in 12 msServer startup in 12 ms
